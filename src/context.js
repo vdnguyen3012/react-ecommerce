@@ -172,4 +172,4 @@ class ProductProvider extends Component {
 
 const ProductConsumer = ProductContext.Consumer
 
-export { ProductProvider, ProductConsumer }
+export { ProductContext, ProductProvider, ProductConsumer }
